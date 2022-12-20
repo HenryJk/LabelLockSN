@@ -1,0 +1,3 @@
+[submodule "BepInEx.ConfigurationManager"]
+    path = BepInEx.ConfigurationManager
+    url = https://github.com/BepInEx/BepInEx.ConfigurationManager
